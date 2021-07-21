@@ -1,0 +1,9 @@
+Aprendendo o que são Estrutura de Dados e Algoritmos
+Boas-vindas ao Bootcamp everis New Talents Java
+Boa-vindas ao Bootcamp Santander Fullstack Developer
+Bem-vindo à DIO
+Conceitos e melhores práticas com bancos de dados PostgreSQL
+Desenvolviemnto básico em Java
+Introdução ao Git e ao GitHub
+Lógica de Programação Essencial
+SQL Serve -Criando suas primeiras consultas
